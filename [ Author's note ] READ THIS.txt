@@ -1,0 +1,8 @@
+Double hitsound? >> Double fun :)
+Need new hitsound? >> Copy from pack #_ and paste to slim-ex skin folder (overwrite old files)
+Original hitsound? >> All in folder "hitsound original"
+Want no countdown "3,2,1" sound? interchange count3s.wav and count3.wave names. The 0 kb file is no sound.
+
+*Except main mode, others are not completed
+*Half-baked @2x files for bigggggg screen, maybe won't fix unless re-interested.
+*Have borrowed materials from other skins
